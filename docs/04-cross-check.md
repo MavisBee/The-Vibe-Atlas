@@ -2,7 +2,6 @@
 
 This document outlines the cross-model verification comparison I made between this AI (Antigravity) and another AI ( OpenAI's ChatGPT)
 
-
 ## Scope of comparison
 
 I compared both models across the same risk topics:
